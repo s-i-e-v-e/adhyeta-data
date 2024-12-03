@@ -1,4 +1,4 @@
-(document
-(title @x-tr kathāḥ kāvyāṇi ca)
-(p @x-tr (a @href "/sa/k/l" laghukathāḥ))
+(document @uri "/sa"
+(title कथाः काव्यणि च)
+(p (a @href "/sa/k/l" लघुकथाः))
 )
