@@ -1,0 +1,5 @@
+(document @id "copyright"
+(title Copyright)
+(p Unless otherwise specified, the content on this site is licensed under (a @href "https://creativecommons.org/licenses/by-sa/4.0/" @target "_blank" "CC BY-SA 4.0" (img @src "/a/cc.svg")(img @src "/a/by.svg")(img @src "/a/sa.svg")))
+(p Sanskrit is often described as a dead language. The primary purpose of this site is to help students of Sanskrit, young and old, acquire the language through the process of reading. To this end, in addition to the works we create ourselves, this site makes use of works from the public domain, abandoned works, works whose title may either be unclear or untraceable, and works from similarly minded organizations. We believe that such use is permitted under section "52(1)(a)" of (em The Copyright Act, 1957).)
+)
