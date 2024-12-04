@@ -1,6 +1,6 @@
 (document @title Home @uri "/"
 (p Welcome to अध्येता, a Sanskrit reader. This website is divided into three main sections:)
-(p (b Stories and poems.) To help you learn the language at your own pace through (a @href "/sa/k" कथाः and काव्याणि).)
+(p (b Stories and poems.) To help you learn the language at your own pace through (a @href "/sa/k" कथाः and काव्यानि).)
 (p (b Grammar.) For those interested in the mechanics of the language.)
 (p (b Reader.) The app gamifies your Sanskrit journey by providing stats on your vocabulary. You can load any available text into the app, mark the words you know and add notes/meaning to words you don't.)
 )
