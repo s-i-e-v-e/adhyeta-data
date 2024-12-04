@@ -1,4 +1,4 @@
-(document @uri "/sa"
+(document @loc "/sa/k"
 (title कथाः काव्यानि च)
 (p (a @href "/sa/k/l" लघुकथाः))
 )

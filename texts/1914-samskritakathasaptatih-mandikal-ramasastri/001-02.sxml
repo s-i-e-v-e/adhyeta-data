@@ -1,9 +1,9 @@
-(document @uri "/sa/k/l/dvayorbalayoscutatarosca-katha"
+(document @loc "/sa/k/l"
 
-(title द्वयोर्बालयोश्चूततरोश्च कथा)
-(author मण्डिकल् रामशास्त्री)
-(origin @date "1914" @page 1 "संस्कृतकथासप्ततिः")
 (copyright CC0. No rights reserved)
+(origin @date "1914" @page 1 "संस्कृतकथासप्ततिः")
+(author मण्डिकल् रामशास्त्री)
+(title द्वयोर्बालयोश्चूततरोश्च कथा)
 (x-meta)
 
 (sec @x-count
