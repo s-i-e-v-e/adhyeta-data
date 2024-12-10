@@ -1,7 +1,7 @@
 (document @loc "/sa/k/l"
 
 (copyright लेखकः/मद्रपुरी संस्कृत महाविद्यालयः)
-(origin @date "2022-03-27" (a @href "https://www.youtube.com/watch?v=pOuEnatw0AE" MSC YT))
+(source @date "2022-03-27" (a @href "https://www.youtube.com/watch?v=pOuEnatw0AE" MSC YT))
 (author अनुराधा अनन्तः)
 (title कदाचित् तथैव त्यज!)
 (x-meta)

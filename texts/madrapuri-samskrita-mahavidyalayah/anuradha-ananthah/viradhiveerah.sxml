@@ -1,7 +1,7 @@
 (document @loc "/sa/k/l"
 
 (copyright लेखकः/मद्रपुरी संस्कृत महाविद्यालयः)
-(origin @date "2023-02-17" (a @href "https://www.youtube.com/watch?v=IfBUaJykTWc" MSC YT))
+(source @date "2023-02-17" (a @href "https://www.youtube.com/watch?v=IfBUaJykTWc" MSC YT))
 (author अनुराधा अनन्तः)
 (title वीराधिवीरः)
 (x-meta)
