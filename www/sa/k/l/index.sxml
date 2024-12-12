@@ -1,4 +1,6 @@
-(document @loc "/sa/k/l"
+(document @uuid CC0jfweEMXIGBiMB2VojI @loc "/sa/k/l"
 (title लघुकथाः)
+(sec @x-count
 (x-list "/sa/k/l")
+)
 )
