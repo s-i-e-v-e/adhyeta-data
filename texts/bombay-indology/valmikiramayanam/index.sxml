@@ -1,0 +1,8 @@
+
+        (document @loc "/sa/itihasa/valmikiramayanam"
+        (copyright CC0. No rights reserved)
+        (source "वाल्मीकिरामायणम् Baroda Critical Edition")
+        (title वाल्मीकिरामायणम्)
+        (sec @x-count
+        (ul
+    (li (a @href "/sa/itihasa/valmikiramayanam/1" बालकाण्डम्))(li (a @href "/sa/itihasa/valmikiramayanam/2" अयोध्याकाण्डम्))(li (a @href "/sa/itihasa/valmikiramayanam/3" अरण्यकाण्डम्))(li (a @href "/sa/itihasa/valmikiramayanam/4" किष्किन्धाकाण्डम्))(li (a @href "/sa/itihasa/valmikiramayanam/5" सुन्दरकाण्डम्))(li (a @href "/sa/itihasa/valmikiramayanam/6" युद्धकाण्डम्))(li (a @href "/sa/itihasa/valmikiramayanam/7" उत्तरकाण्डम्)))))
