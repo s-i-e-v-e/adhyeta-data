@@ -1,0 +1,27 @@
+html {
+    font-family: 'Noto Sans Devanagari', sans-serif;
+    font-size: 1.25rem;
+}
+body {
+    display: flex;
+    flex-direction: row;
+}
+article {
+    padding: 1em;
+    border: 1px solid lightgray;
+    border-radius: 0.5em;
+}
+
+article[lang=en] {
+    width: 68ch;
+    background: antiquewhite;
+}
+
+article[lang=sa] {
+    width: 50ch;
+    background: lightblue;
+}
+
+p {
+    line-height: 1.75;
+}
