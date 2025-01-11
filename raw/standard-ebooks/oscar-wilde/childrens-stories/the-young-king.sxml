@@ -1,11 +1,11 @@
 (document @uuid "CCprPLYffoCF0ibfNcy1o" @tokens 6800
 (copyright CC0. No rights reserved)
-(source @url "https://standardebooks.org/" Standard Ebooks)
+(source @url "https://standardebooks.org/ebooks/oscar-wilde/childrens-stories" Standard Ebooks)
 (title The Young King)
-(note कृत्रिमबुद्ध्या कृतम् भाषान्तरणं इदं)
+(note कृत्रिमबुद्ध्या कृतम् भाषान्तरं इदं)
 (sec
-(article 
-(header 
+(article
+(header
 (dedication To Margaret Lady Brooke,(br)
 The Ranee of Sarawak)
 )

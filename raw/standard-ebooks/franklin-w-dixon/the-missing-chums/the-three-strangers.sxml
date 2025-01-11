@@ -1,10 +1,10 @@
 (document @uuid "CCqCHANYZu4RwUvxv0MIU" @tokens 2395
 (copyright CC0. No rights reserved)
-(source @url "https://standardebooks.org/" Standard Ebooks)
+(source @url "https://standardebooks.org/ebooks/franklin-w-dixon/the-missing-chums" Standard Ebooks)
 (title I: The Three Strangers)
-(note कृत्रिमबुद्ध्या कृतम् भाषान्तरणं इदं)
+(note कृत्रिमबुद्ध्या कृतम् भाषान्तरं इदं)
 (sec
-(section 
+(section
 (p “You certainly ought to have a dandy trip.”)
 (p “I’ll say we will, Frank! We sure wish you could come along.”)
 (p Frank Hardy grinned ruefully and shook his head.)
@@ -17,8 +17,8 @@
 (p “Duty, my neck!” grunted Frank. “We just have to stay at home while dad is in Chicago, that’s all. It’ll be pretty dull without Chet and Biff around to help us kill time.”)
 (p “You can put in the hours thinking of Biff and me,” consoled Chet. “At night you can just picture us sitting around our campfire away up the coast, and in the daytime you can imagine us speeding away out over the bounding main.” He postured with one foot on the gunwale. “A sailor’s life for me, my hearties! Yo, ho, and a bottle of ink!”)
 (p The boat gave a sudden lurch at that moment, for Biff Hooper had not yet mastered the art of navigation and Chet wavered precariously for a few seconds, finally losing his balance and sitting down heavily in a smear of grease at the bottom of the craft.)
-(blockquote 
-(p 
+(blockquote
+(p
 (em “Yo ho, and a bottle of ink)
 (br)
 (em And he nearly fell into the drink,”)
