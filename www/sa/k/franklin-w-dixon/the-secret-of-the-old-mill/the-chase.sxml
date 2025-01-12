@@ -3,7 +3,7 @@
 (source @url "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-old-mill" Standard Ebooks)
 (title 18: अनुसरणम्)
 (note कृत्रिमबुद्ध्या कृतं भाषान्तरं इदं)
-(sec (section
+(matter (section
 (p (tran “कदा?” इति हार्डी-कुमारौ शीघ्रं पृष्टवन्तौ, पितुः घोषणां प्रति पॉल् ब्लम्-स्य पलायनस्य विषये।)(orig “When?” asked the Hardy boys quickly, in response to their father’s announcement of Paul Blum’s escape.))
 (p (tran “अल्पकालात् पूर्वम् एव। तदा ते तस्य पलायनं ज्ञातवन्तः। सः कारागारस्य प्राङ्गणं व्यायामार्थं निर्गतः, किञ्चित् कालं यावत् रक्षकस्य ध्यानं विक्षिप्तम्। ब्लम् भित्तौ कतिपयान् पुराणान् पेटिकान् स्थापयित्वा तिर्यक् गतः, यावत् कश्चन तं दृष्टवान्।”)(orig “Just a few minutes ago. At least that was when they discovered it. He managed to get out into the jail yard for some exercise, and in some way the guard’s attention was distracted. Blum piled up a couple of old boxes against the wall and was over before anyone saw him.”))
 (p (tran “अहं चिन्तयामि, सः कुत्र गच्छेत्?”)(orig “I wonder where he would go?”))

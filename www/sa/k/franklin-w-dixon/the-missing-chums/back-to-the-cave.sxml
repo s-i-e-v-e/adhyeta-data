@@ -2,7 +2,7 @@
 (source @url "https://standardebooks.org/ebooks/franklin-w-dixon/the-missing-chums" Standard Ebooks)
 (title 18: गुहायां पुनः)
 (note कृत्रिमबुद्ध्या कृतं भाषान्तरं इदं)
-(sec (section (p (tran “इदं भाग्यम्!” इति रक्तकेशः पुरुषः अवदत्।)(orig “This is a piece of luck!” declared the redheaded man.))
+(matter (section (p (tran “इदं भाग्यम्!” इति रक्तकेशः पुरुषः अवदत्।)(orig “This is a piece of luck!” declared the redheaded man.))
 (p (tran सः अग्नेः समीपे उपविश्य स्वबाहुभ्यां संहत्य चतुरः बन्दिनः अवलोकितवान्। फ्रैङ्क् जो च अन्यैः सह गुहायां पुनः आकृष्टौ बद्धौ निरुपायौ च आस्ताम्, यावत् गुण्डाः तान् प्रत्यक्षीकुर्वन्ति स्म।)(orig He squatted by the fire with his arms folded and surveyed the four prisoners. Frank and Joe had been dragged back to the cave with the others and were now bound and helpless, while the gangsters confronted them.))
 (p (tran “एतौ कौ?” इति पीट् नामकः पुरुषः अवदत्, हार्डी-कुमारौ सूचयन्।)(orig “Who are these two?” asked the man called Pete, indicating the Hardy boys.))
 (p (tran रक्तकेशः शिरः अचालयत्।)(orig Red shook his head.))

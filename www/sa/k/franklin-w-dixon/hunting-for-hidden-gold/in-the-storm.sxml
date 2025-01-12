@@ -2,7 +2,7 @@
 (source @url "https://standardebooks.org/ebooks/franklin-w-dixon/hunting-for-hidden-gold" Standard Ebooks)
 (title 01: वातावरणे)
 (note कृत्रिमबुद्ध्या कृतं भाषान्तरं इदं)
-(sec (section (p (tran “गुप्तसुवर्णस्य भाग्यम्! तत् निश्चयेन अतीव रोचकम् प्रतिभाति।”)(orig “A fortune in hidden gold! That certainly sounds mighty interesting.”))
+(matter (section (p (tran “गुप्तसुवर्णस्य भाग्यम्! तत् निश्चयेन अतीव रोचकम् प्रतिभाति।”)(orig “A fortune in hidden gold! That certainly sounds mighty interesting.”))
 (p (tran फ्रैङ्क् हार्डी स्वस्य भ्रातुः पुरतः पठित्वा पत्रं संवृणोत्।)(orig Frank Hardy folded up the letter he had just been reading aloud to his brother.))
 (p (tran “पिता सर्वं भाग्यम् अधितिष्ठति,” जो इति उक्तवान्। “अहं किमपि दद्याम् यत् तेन सह तादृशे प्रकरणे कार्यं करोमि।”)(orig “Dad has all the luck,” replied Joe. “I’d give anything to be working with him on a case like that.”))
 (p (tran “अहम् अपि। इदं प्रकरणं सामान्यात् अतिरिच्यते।”)(orig “Me, too. This case is a bit out of the ordinary.”))

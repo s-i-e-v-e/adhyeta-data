@@ -2,7 +2,7 @@
 (source @url "https://standardebooks.org/ebooks/franklin-w-dixon/the-missing-chums" Standard Ebooks)
 (title 01: त्रयः अज्ञाताः)
 (note कृत्रिमबुद्ध्या कृतं भाषान्तरं इदं)
-(sec (section (p (tran “त्वं निश्चयेन उत्तमं यात्रां करिष्यसि।”)(orig “You certainly ought to have a dandy trip.”))
+(matter (section (p (tran “त्वं निश्चयेन उत्तमं यात्रां करिष्यसि।”)(orig “You certainly ought to have a dandy trip.”))
 (p (tran “अहं वदामि यत् वयं करिष्यामः, फ्रैंक! वयं निश्चयेन इच्छामः यत् त्वं सह आगच्छेत्।”)(orig “I’ll say we will, Frank! We sure wish you could come along.”))
 (p (tran फ्रैंक हार्डी दुःखेन स्मितं कृत्वा शिरः अकम्पयत्।)(orig Frank Hardy grinned ruefully and shook his head.))
 (p (tran “अहं भीतः अस्मि यत् वयं दुर्भाग्यवशाः स्मः। जोः अहं च कदाचित् लघुं यात्रां करिष्यावः, किन्तु इदानीं न शक्नुमः।”)(orig “I’m afraid we’re out of luck. Joe and I may take a little trip later on, but we can’t make it this time.”))

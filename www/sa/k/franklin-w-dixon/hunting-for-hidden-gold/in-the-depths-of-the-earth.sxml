@@ -2,7 +2,7 @@
 (source @url "https://standardebooks.org/ebooks/franklin-w-dixon/hunting-for-hidden-gold" Standard Ebooks)
 (title 13: भूमेः गभीरे)
 (note कृत्रिमबुद्ध्या कृतं भाषान्तरं इदं)
-(sec (section (p (tran जो हार्डी हस्ते लौहदण्डं धारयति स्म। सः तस्य ग्रहणं न त्यक्तवान्।)(orig Joe Hardy still had the iron bar in his hand. He had not relinquished his grip on it.))
+(matter (section (p (tran जो हार्डी हस्ते लौहदण्डं धारयति स्म। सः तस्य ग्रहणं न त्यक्तवान्।)(orig Joe Hardy still had the iron bar in his hand. He had not relinquished his grip on it.))
 (p (tran “एतत् सर्वं कष्टं जनितवत्,” इति सः स्वयं अचिन्तयत्। दण्डस्य दर्शनं फ्रैङ्कं स्मारयति स्म, यः सुरङ्गायां बद्धः आसीत्। सः ज्ञातवान् यत् फ्रैङ्कः ध्वनिं श्रुतवान् स्यात्, किं घटितम् इति चिन्तयन् स्यात्।)(orig “That’s what caused all the trouble,” he said to himself. The sight of the bar reminded him of Frank, still imprisoned back in the tunnel. He knew Frank would have heard the crash and would be wondering what had happened.))
 (p (tran “अहं तं मुक्तं कृत्वा ततः किं कर्तव्यम् इति विचारयामः।”)(orig “I may as well set him free first and then we can reason out what we are going to do.”))
 (p (tran सः परिवृत्य गुरुं दण्डं पृष्ठतः आकृष्य सुरङ्गायाः प्रवेशं प्रति अगच्छत्। प्रवेशं प्राप्य सः नम्रः भूत्वा सुरङ्गायां प्रविष्टवान्।)(orig He turned and, dragging the heavy bar behind him, made his way to the opening of the tunnel. When he reached it he crouched down and proceeded into the passage.))

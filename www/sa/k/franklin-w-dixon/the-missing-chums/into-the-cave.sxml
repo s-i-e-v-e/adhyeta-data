@@ -2,7 +2,7 @@
 (source @url "https://standardebooks.org/ebooks/franklin-w-dixon/the-missing-chums" Standard Ebooks)
 (title 12: गुहायां प्रवेशः)
 (note कृत्रिमबुद्ध्या कृतं भाषान्तरं इदं)
-(sec (section (p (tran फ्रैङ्क् हार्डीः चक्रस्योपरि नम्रः अभवत्।)(orig Frank Hardy bent over the wheel.))
+(matter (section (p (tran फ्रैङ्क् हार्डीः चक्रस्योपरि नम्रः अभवत्।)(orig Frank Hardy bent over the wheel.))
 (p (tran “अहं समीपं गच्छामि,” इति सः अवदत्। “अस्मिन् विषये निश्चितं करिष्यामः।”)(orig “I’m going closer,” he said. “We’ll make absolutely sure of this.”))
 (p (tran सः नौकायाः मार्गं परिवर्तितवान् यत् अन्यां नौकां तेषां गतिवेगेन अवरोधयेत्। ततः सः स्वस्य कोटस्य कॉलरं उन्नतं कृतवान् स्वस्य टोपीं च नेत्राणां उपरि न्यक्कृतवान्।)(orig He altered the course of the boat so that it would intercept the other craft, at the speed they were going. Then he turned up his coat collar and drew his cap lower over his eyes.))
 (p (tran “यदि एषा एव नौका अस्ति चेत् तथा यदि तेषु एव पुरुषाः सन्ति चेत्, यावत् ते अस्मान् न जानन्ति तावत् अस्माकं सुरक्षा भविष्यति। ते अस्मान् तस्मिन् दिवसे दृष्टवन्तः, किन्तु ते (i स्लूथ्) इति नौकां न दृष्टवन्तः। अस्माभिः तेषां समीपं यावत् शक्यते तावत् गन्तव्यम्।”)(orig “If it’s the same boat and if the same men are in it, we should be safe enough as long as they don’t recognize us. They saw us that day, but they’ve never seen the (i Sleuth). We’ll get as close to them as we can.”))

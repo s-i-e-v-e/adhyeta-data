@@ -2,7 +2,7 @@
 (source @url "https://standardebooks.org/ebooks/franklin-w-dixon/the-missing-chums" Standard Ebooks)
 (title 13: चत्वारः पुरुषाः)
 (note कृत्रिमबुद्ध्या कृतं भाषान्तरं इदं)
-(sec (section (p (tran गाढं तमः हार्डी-कुमारौ आवृणोत्।)(orig Profound darkness enveloped the Hardy boys.))
+(matter (section (p (tran गाढं तमः हार्डी-कुमारौ आवृणोत्।)(orig Profound darkness enveloped the Hardy boys.))
 (p (tran हिमशीतलस्य जलाशयस्य कृष्णता वायोः तमसः कृष्णतायाः अपेक्षया न अधिका आसीत्।)(orig The blackness of the icy pool was no blacker than the darkness of the air above.))
 (p (tran फ्रैङ्कः स्प्लटरिंग् इत्यनेन सह सतलात् उत्थितः, स्वपतनेन अकृतः, यदा सः स्प्लैशिंग् इत्यनेन सह आसीत्, तदा तस्य प्रथमं चिन्तनं तस्य भ्रातुः विषये आसीत्।)(orig Frank rose spluttering to the surface, unharmed by his fall, and as he splashed about, his first thought was for his brother.))
 (p (tran “जो!” इति सः अक्रन्दत्। “जो!”)(orig “Joe!” he shouted. “Joe!”))

@@ -2,7 +2,7 @@
 (source @url "https://standardebooks.org/ebooks/franklin-w-dixon/hunting-for-hidden-gold" Standard Ebooks)
 (title 16: सूचना)
 (note कृत्रिमबुद्ध्या कृतं भाषान्तरं इदं)
-(sec (section (p (tran “तवम् एव असि!” इति फ्रैङ्क् उक्तवान्।)(orig “So it’s you!” said Frank.))
+(matter (section (p (tran “तवम् एव असि!” इति फ्रैङ्क् उक्तवान्।)(orig “So it’s you!” said Frank.))
 (p (tran “मम भाग्यम् एव,” इति दस्युः निराशया अब्रवीत्। “अहम् अधिकं ज्ञातवान् अस्मि!”)(orig “Just my luck,” muttered the outlaw, in disgust. “I might have known better!”))
 (p (tran अद्यापि रिवाल्वरं स्लिम्-प्रति निर्दिश्य, फ्रैङ्क् स्वकीयं पकर्षं त्यक्त्वा पृष्ठतः स्थितवान्। जो अपि पृष्ठतः गतवान्। स्लिम्, स्वकीयौ हस्तौ शिरसि उपरि धृत्वा आयुधं प्रति सावधानं दृष्टिं धृत्वा, उपविष्टः अभवत्।)(orig Still leveling the revolver at Slim, Frank relinquished his grasp and stood back. Joe also withdrew. Slim, holding his hands above his head and keeping a wary eye on the weapon, got to a sitting position.))
 (p (tran “इदं भाग्यम् अस्ति,” इति फ्रैङ्क् उक्तवान्। “वयं पुनः शीघ्रं मिलितुं न अपेक्षितवन्तः।”)(orig “This is luck,” Frank remarked. “We hadn’t expected to meet again so soon.”))

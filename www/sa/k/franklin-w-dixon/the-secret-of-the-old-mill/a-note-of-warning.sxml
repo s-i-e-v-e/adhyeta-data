@@ -2,7 +2,7 @@
 (source @url "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-old-mill" Standard Ebooks)
 (title 20: सावधानीपूर्वक एक सूचना)
 (note कृत्रिमबुद्ध्या कृतं भाषान्तरं इदं)
-(sec (section (p (tran त्रयः दिवसाः अनन्तरं, फेन्टन् हार्डी, यः गृहात् व्यापारार्थं दूरं गतः आसीत्, एकां सूचनां प्राप्तवान्।)(orig Three days later, Fenton Hardy, who had been away from home on business, received a note.))
+(matter (section (p (tran त्रयः दिवसाः अनन्तरं, फेन्टन् हार्डी, यः गृहात् व्यापारार्थं दूरं गतः आसीत्, एकां सूचनां प्राप्तवान्।)(orig Three days later, Fenton Hardy, who had been away from home on business, received a note.))
 (p (tran कः अपि तं पुरुषं न अपश्यत् यः तां द्वारे स्थापितवान्। हार्डी-कुमाराः विद्यालये आसन् तथा श्रीमती हार्डी रसोज्झटिकायां व्यस्ता आसीत्। सा अग्रद्वारघण्टां श्रुत्वा तां उत्तरितुं गतवती।)(orig No one saw the man who left it at the door. The Hardy boys were at school and Mrs. Hardy was busy in the kitchen. She heard the front doorbell ring and went to answer it.))
 (p (tran किन्तु यदा सा द्वारं उद्घाटितवती, तदा कः अपि न दृष्टः।)(orig But when she opened the door there was no one in sight.))
 (p (tran सा बहिः दृष्ट्वा एकं पुरुषं विपरीतदिशि शीघ्रं गच्छन्तं दृष्टवती। एका स्त्री शिशुयानेन सह गृहस्य समीपे विचरन्ती आसीत्, तथा दूरतरे एकस्मिन् कोणे द्वौ पुरुषौ स्थित्वा वार्तालापं कुर्वन्तौ आस्ताम्।)(orig She looked out and saw a man walking briskly down the opposite side of the street. A woman with a baby-carriage was strolling past the house, and farther down the street two men were standing talking on the corner.))

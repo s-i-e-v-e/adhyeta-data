@@ -2,7 +2,7 @@
 (source @url "https://standardebooks.org/ebooks/franklin-w-dixon/the-missing-chums" Standard Ebooks)
 (title 07: भग्नावशेषः)
 (note कृत्रिमबुद्ध्या कृतं भाषान्तरं इदं)
-(sec (section (p (tran “शुभरात्रिः! यदि वयं यात्रायां निर्गच्छामः तर्हि भाग्यवन्तः भविष्यामः!” इति फ्रैङ्कः अकथयत्, यदा सः जो च शीघ्रं सोपानान् अवरुह्य गच्छतः।)(orig “Good night! We’ll be lucky if we get away on the trip at all!” exclaimed Frank, as he and Joe hastened down the stairs.))
+(matter (section (p (tran “शुभरात्रिः! यदि वयं यात्रायां निर्गच्छामः तर्हि भाग्यवन्तः भविष्यामः!” इति फ्रैङ्कः अकथयत्, यदा सः जो च शीघ्रं सोपानान् अवरुह्य गच्छतः।)(orig “Good night! We’ll be lucky if we get away on the trip at all!” exclaimed Frank, as he and Joe hastened down the stairs.))
 (p (tran श्रीमती हार्डी प्राग्द्वारे एव आसीत्, आगतां आण्टीं गर्ट्रूडं स्वागच्छन्ती, या सामान्यतः टैक्सीचालकानां दुष्टतां विस्तारेण वर्णयन्ती आसीत्।)(orig Mrs. Hardy was already at the front door welcoming Aunt Gertrude, who was expatiating on the wickedness of taxi drivers in general.))
 (p (tran “अहो!” इति सा अवदत्, यदा बालकौ प्रकटौ। “अग्रवातायने स्थित्वा महतीं आण्टीं उपहसन्तौ तस्याः सामानं धर्तुं अवरुह्य साहाय्यं कर्तुं न आगच्छन्तौ यथा शिष्टबालकौ! अहं युवयोः विषये आश्चर्यं अनुभवामि!”)(orig “So!” she ejaculated, as the boys appeared. “Standing up at a front window laughing at your great-aunt instead of coming down and helping carry up her bags like little gentlemen! I’m surprised at you!”))
 (p (tran “वयं केवलं वस्त्राणि धारयन्तः आस्मः, आण्टीं गर्ट्रूड,” इति फ्रैङ्कः नम्रतया व्याख्यातवान्।)(orig “We were just getting dressed, Aunt Gertrude,” explained Frank meekly.))

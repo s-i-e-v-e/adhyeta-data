@@ -3,7 +3,7 @@
 (source @url "https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-old-mill" Standard Ebooks)
 (title 08: पॉल ब्लम)
 (note कृत्रिमबुद्ध्या कृतं भाषान्तरं इदं)
-(sec
+(matter
 (section
 (p (tran फ्रैङ्क् हार्डी मोटरबोटस्य गतिं मन्दीकृतवान्, यतः सः कोहरे गूढाः भयानकाः स्थितयः इति अजानात्।)(orig Frank Hardy reduced the speed of the motorboat, because he realized the dangers that lurked in the fog.))
 (p (tran प्रायः क्षणे कोहरे अन्यं नौकां आहत्य भञ्जयेयुः। अधिकं भयं तु एतत् यत् ते मार्गात् बहु दूरं गतवन्तः स्युः येन शिलामये तीरे आपतिताः स्युः।)(orig Almost any moment they might crash into another boat in the bay. Even worse, they might be so far out of their course that they would pile up on one of the rocky shores.))

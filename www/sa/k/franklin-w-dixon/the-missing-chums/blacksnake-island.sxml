@@ -2,7 +2,7 @@
 (source @url "https://standardebooks.org/ebooks/franklin-w-dixon/the-missing-chums" Standard Ebooks)
 (title 09: कृष्णसर्पद्वीपम्)
 (note कृत्रिमबुद्ध्या कृतं भाषान्तरं इदं)
-(sec (section (p (tran गार्ट्रूडमातुलायाः पत्रस्य कुशलव्याख्यानेऽपि हार्डीकुमारौ न तृप्तौ। गृहं त्यक्त्वा नगरमध्यं गत्वा विषयं चर्चितवन्तौ।)(orig In spite of Aunt Gertrude’s ingenious explanation of the letter, the Hardy boys were not quite satisfied. When they left the house they walked downtown, discussing the matter.))
+(matter (section (p (tran गार्ट्रूडमातुलायाः पत्रस्य कुशलव्याख्यानेऽपि हार्डीकुमारौ न तृप्तौ। गृहं त्यक्त्वा नगरमध्यं गत्वा विषयं चर्चितवन्तौ।)(orig In spite of Aunt Gertrude’s ingenious explanation of the letter, the Hardy boys were not quite satisfied. When they left the house they walked downtown, discussing the matter.))
 (p (tran “गार्ट्रूडमातुला सम्यग् वदेत्, किन्तु कथञ्चित् मन्ये ये ते पुरुषाः पत्रं गृहं प्रेषितवन्तः, पितरं तत्रैव स्थितं मत्वा,” इति जोः अवदत्।)(orig “Aunt Gertrude may be right, but somehow I think those fellows sent the letter to the house, believing dad was still there,” declared Joe.))
 (p (tran “यदि ते जानन्ति स्म यत् सः गृहे आसीत्, वा गृहे स्थितः इति मन्यते स्म, तर्हि सः जानीयात् यत् वयं अपहृताः न स्मः।”)(orig “But if they knew he was at the house, or thought he was at the house, he would know we weren’t kidnapped.”))
 (p (tran “आम्, तत् सम्यक् अस्ति,” इति जोः विस्मितः अवदत्। “अहं न जानामि यत् कथं व्याख्यातुं शक्नोमि, किन्तु अहं तु मन्ये यत् तस्मिन् पत्रे गार्ट्रूडमातुलायाः कल्पनातः अधिकं किमपि अस्ति।”)(orig “Yes, that’s right,” Joe admitted, puzzled. “I’m hanged if I can figure it out, but I still think there is more to that letter than Aunt Gertrude imagines.”))

@@ -2,7 +2,7 @@
 (source @url "https://standardebooks.org/ebooks/franklin-w-dixon/the-tower-treasure" Standard Ebooks)
 (title 18: नवीनः गोपुरः)
 (note कृत्रिमबुद्ध्या कृतं भाषान्तरं इदं)
-(sec (section (p (tran “ते धृष्टतया इदानीं नवीनं गोपुरं अन्वेष्टुं इच्छन्ति,” इति मिस् अप्पल्गेट् उच्चकण्ठेन अकथयत्।)(orig “They have the audacity to want to go looking through the new tower now,” said Miss Applegate, in high indignation.))
+(matter (section (p (tran “ते धृष्टतया इदानीं नवीनं गोपुरं अन्वेष्टुं इच्छन्ति,” इति मिस् अप्पल्गेट् उच्चकण्ठेन अकथयत्।)(orig “They have the audacity to want to go looking through the new tower now,” said Miss Applegate, in high indignation.))
 (p (tran हर्ड् अप्पल्गेट्-स्य स्मितं अदृश्यत।)(orig Hurd Applegate’s smile vanished.))
 (p (tran “तवं किमपि एतादृशं कर्तुं न शक्नोषि!” इति सः तीव्रं अवदत्। “किं युवानः मां मूर्खं कर्तुं प्रयतन्ते? अहं निश्चितं जानामि यत् पुरातने गोपुरे किमपि न लभ्यते।”)(orig “You can’t do anything of the sort!” he snapped. “Are you boys trying to make a fool out of me? I knew mighty well you wouldn’t find anything in the old tower.”))
 (p (tran “अस्माभिः तु निश्चितं मन्यते यत् लभ्येत,” इति फ्रैंक् उत्तरम् अददात्। “शृणु, श्रीमन् अप्पल्गेट्⁠—अस्माभिः त्वया सह न्याय्यं भविष्यति। अस्माभिः त्वां कारणं स्पष्टं वक्ष्यामः यत् किमर्थं अस्माभिः एतत् अन्वेषणं कर्तुम् इच्छामः।”)(orig “And we were pretty sure we would,” answered Frank. “Listen, Mr. Applegate⁠—we’ll be fair with you. We’ll tell you exactly why we wanted to make this search.”))

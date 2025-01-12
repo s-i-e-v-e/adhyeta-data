@@ -2,7 +2,7 @@
 (source @url "https://standardebooks.org/ebooks/franklin-w-dixon/the-tower-treasure" Standard Ebooks)
 (title 15: प्रमुखः बमं प्राप्नोति)
 (note कृत्रिमबुद्ध्या कृतं भाषान्तरं इदं)
-(sec (section (p (tran “किं भवति इदानीम्?” इति जोः पृष्टवान्, यदा हार्डी-बालकौ गृहात् निर्गतवन्तौ।)(orig “What’s up now?” asked Joe, when the Hardy boys had left the house.))
+(matter (section (p (tran “किं भवति इदानीम्?” इति जोः पृष्टवान्, यदा हार्डी-बालकौ गृहात् निर्गतवन्तौ।)(orig “What’s up now?” asked Joe, when the Hardy boys had left the house.))
 (p (tran “प्रमुखः कोलिग् डिटेक्टिव् स्मफ् च तं रथं मा प्राप्नुयाताम्।”)(orig “Chief Collig and Detective Smuff must miss that train.”))
 (p (tran “किन्तु कथम्?”)(orig “But how?”))
 (p (tran “अहम् अद्यापि न जानामि, किन्तु तौ तं रथं मा प्राप्नुयाताम्। यदि तौ अस्पतालं प्राप्नुयाताम् तर्हि तौ जैक्लेयम् प्रथमं पृच्छिष्यतः। द्वयोः एकं भविष्यति। यदि तौ स्वीकारं प्राप्नुयाताम् तर्हि तौ सर्वं श्रेयं स्वीकरिष्यतः, अथवा तौ एतत् इत्थं करिष्यतः यत् जैक्लेयः किमपि न वदिष्यति एवं पितुः कृते सर्वं नष्टं करिष्यति।”)(orig “I don’t know just yet, but they’ve got to miss it. If they reach the hospital tonight they’ll interview Jackley first. One of two things will happen. They’ll either get a confession and take all the credit for clearing up the case, or they’ll go about it so clumsily that Jackley will say nothing and spoil everything for Dad.”))

@@ -2,7 +2,7 @@
 (source @url "https://standardebooks.org/ebooks/franklin-w-dixon/hunting-for-hidden-gold" Standard Ebooks)
 (title 21: अधोभूमिः)
 (note कृत्रिमबुद्ध्या कृतं भाषान्तरं इदं)
-(sec (section (p (tran फ्रैङ्क् हार्डी दशद्वादशपादानाम् अधिकं न पतितवान्, परं सः महतीं उच्चतां पतितवान् इति संवेदनां प्राप्तवान्। अप्रत्याशितत्वेन तस्य श्वासः निरुद्धः, यदा सः अन्ततः मृत्तिकाग्रावसमूहे पतितः, तदा तस्य शरीरस्य सर्वास्थिषु कम्पः जातः, सः तमसि शयित्वा जीवितः इति आश्चर्यं प्राप्तवान्।)(orig Frank Hardy could not have fallen more than ten or twelve feet, but he had the sensation of having dropped from an enormous height. The unexpectedness of it took his breath away, and when he finally crashed into a heap of earth and gravel with a jolt that jarred every bone in his body he could only lie there in the darkness and wonder that he was still alive.))
+(matter (section (p (tran फ्रैङ्क् हार्डी दशद्वादशपादानाम् अधिकं न पतितवान्, परं सः महतीं उच्चतां पतितवान् इति संवेदनां प्राप्तवान्। अप्रत्याशितत्वेन तस्य श्वासः निरुद्धः, यदा सः अन्ततः मृत्तिकाग्रावसमूहे पतितः, तदा तस्य शरीरस्य सर्वास्थिषु कम्पः जातः, सः तमसि शयित्वा जीवितः इति आश्चर्यं प्राप्तवान्।)(orig Frank Hardy could not have fallen more than ten or twelve feet, but he had the sensation of having dropped from an enormous height. The unexpectedness of it took his breath away, and when he finally crashed into a heap of earth and gravel with a jolt that jarred every bone in his body he could only lie there in the darkness and wonder that he was still alive.))
 (p (tran ततः, तस्य सुखाय, समीपात् वाणी आगता।)(orig Then, to his relief, came a voice from close at hand.))
 (p (tran “फ्रैङ्क्, किं त्वं कुशलः असि?”)(orig “Are you all right, Frank?”))
 (p (tran “किं त्वं जो असि?”)(orig “That you, Joe?”))

@@ -2,7 +2,7 @@
 (source @url "https://standardebooks.org/ebooks/franklin-w-dixon/the-tower-treasure" Standard Ebooks)
 (title 16: एकं स्वीकारः)
 (note कृत्रिमबुद्ध्या कृतं भाषान्तरं इदं)
-(sec (section (p (tran “रायले!” इति प्रधानः आज्ञापितवान्, “फलविक्रयस्थानस्य प्रतिष्ठाने स्थितं पुटकं पश्य। गच्छ तत् आनय तस्योपरि जलस्य पात्रं निक्षिप।”)(orig “Riley!” ordered the chief, “see that package on the counter of the fruit stand. Go and get it and pour a pail of water over it.”))
+(matter (section (p (tran “रायले!” इति प्रधानः आज्ञापितवान्, “फलविक्रयस्थानस्य प्रतिष्ठाने स्थितं पुटकं पश्य। गच्छ तत् आनय तस्योपरि जलस्य पात्रं निक्षिप।”)(orig “Riley!” ordered the chief, “see that package on the counter of the fruit stand. Go and get it and pour a pail of water over it.”))
 (p (tran “हुह्?” इति रायलेः आश्चर्येण उक्तवान्, मुखं विवृत्य।)(orig “Huh?” exclaimed Riley, gaping.))
 (p (tran “तस्योपरि जलस्य पात्रं निक्षिप।”)(orig “Pour a pail of water over it.”))
 (p (tran रायलेः स्वस्य शिरस्त्राणं अपसार्य शिरः कण्डूयितवान्। सः चिन्तितवान् यद् किं प्रधानस्य मस्तिष्कं उष्णतया प्रभावितं अभवत्।)(orig Riley took off his helmet and scratched his head. He began to wonder if his chief’s brain had been affected by the heat.))

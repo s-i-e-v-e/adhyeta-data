@@ -2,7 +2,7 @@
 (source @url "https://standardebooks.org/ebooks/franklin-w-dixon/the-missing-chums" Standard Ebooks)
 (title 19: विभक्तः)
 (note कृत्रिमबुद्ध्या कृतं भाषान्तरं इदं)
-(sec (section (p (tran फ्रैङ्क् हार्डी मार्गं नीतवान्।)(orig Frank Hardy led the way.))
+(matter (section (p (tran फ्रैङ्क् हार्डी मार्गं नीतवान्।)(orig Frank Hardy led the way.))
 (p (tran सः किञ्चित्कालं प्रकोष्ठे स्थित्वा बहिःगुहायाः दृश्यं पर्यैक्षत।)(orig He paused in the passage for a few seconds, surveying the scene in the outer cave.))
 (p (tran सर्वे पुरुषाः निद्रिताः आसन्। ते स्वकम्बलेषु वेष्टिताः छायायां विस्तारिताः आसन्। अग्नेः अङ्गाराणां मन्दः रक्तिमः प्रभा एव आसीत्।)(orig All the men were asleep. They were rolled up in their blankets and lay sprawled in the shadows. There was merely a faint crimson glow from the embers of the fire.))
 (p (tran सः चतुष्पदः न अगच्छत्; केवलं नम्रः भूत्वा निद्रितानां मध्ये गुहायां सञ्चरति स्म। शीघ्राः, निश्चिताः पदन्यासाः, मार्जारस्य पदन्यासैः इव नीरवाः, तं बहिःद्वारं प्रापयन्।)(orig He did not go on all fours; he just crouched low as he moved across the cave among the sleepers. Quick, sure footsteps, as silent as those of a cat, brought him to the outer entrance.))

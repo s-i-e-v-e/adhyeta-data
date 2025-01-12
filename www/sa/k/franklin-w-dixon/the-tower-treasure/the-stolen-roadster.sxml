@@ -2,7 +2,7 @@
 (source @url "https://standardebooks.org/ebooks/franklin-w-dixon/the-tower-treasure" Standard Ebooks)
 (title 02: चोरीतः रोड्स्टरः)
 (note कृत्रिमबुद्ध्या कृतं भाषान्तरं इदं)
-(sec (section (p (tran यानस्य ब्रेकाः कर्कशं शब्दं कृतवन्तः।)(orig The auto brakes squealed.))
+(matter (section (p (tran यानस्य ब्रेकाः कर्कशं शब्दं कृतवन्तः।)(orig The auto brakes squealed.))
 (p (tran आगच्छतः यानस्य चालकः चक्रं तीव्रं परिवर्तितवान्। क्षणं यावत् प्रतीयते स्म यत् चक्राणि प्रतिक्रियां न दास्यन्ति। ततः ते ग्रावाणं गृहीतवन्तः, यानं च परिवर्तितं, ततः अतीत्य गतवत्।)(orig The driver of the oncoming car swung the wheel viciously about. For a moment it appeared that the wheels would not respond. Then they gripped the gravel and the automobile swerved, then shot past.))
 (p (tran वालुकायाः ग्रावाणां च खण्डाः द्वौ बालकौ यदा तीरस्य किनारे स्वमोटरसाइकलयोः नमन्तौ आस्ताम्, तदा प्रक्षिप्ताः। यानं तौ केवलं अङ्गुलिमात्रेण अतीत्य गतवत्!)(orig Bits of sand and gravel were flung about the two boys as they crouched by their motorcycles at the edge of the embankment. The car had missed them only by inches!))
 (p (tran फ्रैङ्कः चालकं दृष्ट्वा, यः तस्मिन् क्षणे परावृत्य, यानस्य गतिं प्रति ध्यानं न दत्त्वा, मार्गस्य संकटं प्रति च ध्यानं न दत्त्वा, किमपि अवाक्यं उक्तवान् यत् तौ न श्रुतवन्तौ, मुष्टिं च प्रचालितवान्।)(orig Frank caught a glimpse of the driver, who turned about at that moment and, in spite of the speed at which the automobile was traveling and in spite of the perils of the road, shouted something they could not catch at them and shook his fist.))

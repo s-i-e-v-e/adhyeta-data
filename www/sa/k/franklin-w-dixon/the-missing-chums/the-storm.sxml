@@ -2,7 +2,7 @@
 (source @url "https://standardebooks.org/ebooks/franklin-w-dixon/the-missing-chums" Standard Ebooks)
 (title 14: वातावरणम्)
 (note कृत्रिमबुद्ध्या कृतं भाषान्तरं इदं)
-(sec (section (p (tran चत्वारः पुरुषाः शिबिराग्निसमीपे भोजनं कृतवन्तः, भोजनस्य समाप्तौ यः रक्तः इति उच्यते सः उत्थितः।)(orig The four men had dinner about the campfire and when the meal was over the man they called Red got up.))
+(matter (section (p (tran चत्वारः पुरुषाः शिबिराग्निसमीपे भोजनं कृतवन्तः, भोजनस्य समाप्तौ यः रक्तः इति उच्यते सः उत्थितः।)(orig The four men had dinner about the campfire and when the meal was over the man they called Red got up.))
 (p (tran “गुहायां प्रतिनिवर्तितुं शक्यते,” सः अवदत्। “अत्रापेक्षया शीतलतरम् अस्ति।”)(orig “May as well go back to the cave,” he remarked. “It’s cooler than out here.”))
 (p (tran “एतेषु शिलासु निद्रां प्राप्तुं तापः पर्याप्तः अस्ति,” अन्यः अवदत्। “आम्, गुहायां गच्छामः।”)(orig “It’s hot enough to put a man to sleep out on these rocks,” said one of the others. “Yeah, let’s go on up to the cave.”))
 (p (tran “गुहायाः समीपे स्थातुं न रोचते,” अग्निसमीपस्थः पुरुषः गर्जितवान्। “यदि कश्चित् अत्र आगच्छेत् च अस्मान् अन्विष्येत्, तर्हि गुहायाः समीपे न स्थित्वा तान् अन्वेष्टुं शक्नुयात्, पश्यति किम्?”)(orig “I don’t like the idea of stayin’ too close to the cave,” growled the man who had been by the fire. “If anybody comes around here and should find us they’ll have to look some to find (em them) as long as we’re not near the cave, see?”))

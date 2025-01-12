@@ -2,7 +2,7 @@
 (source @url "https://standardebooks.org/ebooks/franklin-w-dixon/the-missing-chums" Standard Ebooks)
 (title 21: द्वीपे)
 (note कृत्रिमबुद्ध्या कृतं भाषान्तरं इदं)
-(sec (section (p (tran इतरेषु किम् चेत् मोर्टन् बिफ् हूपर् च किम् अकुरुताम्?)(orig In the meantime, what of Chet Morton and Biff Hooper?))
+(matter (section (p (tran इतरेषु किम् चेत् मोर्टन् बिफ् हूपर् च किम् अकुरुताम्?)(orig In the meantime, what of Chet Morton and Biff Hooper?))
 (p (tran यदा ते मार्गे दुष्टं वर्त्म स्वीकृतवन्तः तदा कियत्कालं यावत् ते न अबोधिष्ट यत् हार्डी-बालकौ तेषां पुरतः धावन्तौ न स्तः। ते अन्धकारे सघने वने प्रमादेन गच्छन्तौ आस्ताम्, स्वमित्रेषु विश्वसन्तौ यावत् चेत् विरम्य श्वसन् अवदत्।)(orig When they took the wrong turn in the trail it was some time before they realized that the Hardy boys were not running along before them. They were blundering along through the undergrowth, in complete darkness, trusting to their chums to guide them through, when finally Chet stopped, panting.))
 (p (tran “फ्रैंक् जो च मृग इव धावतः,” सः मनसि अचिन्तयत्। “तेषां शब्दं न शृणोमि।”)(orig “Frank and Joe must be running like deer,” he muttered. “I can’t hear them at all.”))
 (p (tran “अल्पकालात् पूर्वं सर्वे अत्यन्तं समीपे आसन्,” बिफ् प्रत्यवदत्।)(orig “We were all mighty close together a little while ago,” returned Biff.))

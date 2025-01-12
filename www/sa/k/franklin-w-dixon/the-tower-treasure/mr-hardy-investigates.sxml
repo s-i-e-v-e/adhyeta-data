@@ -2,7 +2,7 @@
 (source @url "https://standardebooks.org/ebooks/franklin-w-dixon/the-tower-treasure" Standard Ebooks)
 (title 11: श्रीमान् हार्डी अन्विष्यति)
 (note कृत्रिमबुद्ध्या कृतं भाषान्तरं इदं)
-(sec (section (p (tran हार्डी-कुमारौ परस्परं वर्धमानेन उत्साहेन अपश्यताम्।)(orig The Hardy boys looked at one another in growing excitement.))
+(matter (section (p (tran हार्डी-कुमारौ परस्परं वर्धमानेन उत्साहेन अपश्यताम्।)(orig The Hardy boys looked at one another in growing excitement.))
 (p (tran “अस्मिन् विषये किं कर्तव्यम्?” इति जोः अपृच्छत्।)(orig “What ought we do about it?” asked Joe.))
 (p (tran “अहं पितरं वक्तुं यामि यत् किमपि अवलोकितवन्तः।”)(orig “I’m going to tell Dad what we’ve found.”))
 (p (tran “किन्तु सः न उक्तवान् यत् स्वयं एव प्रकरणं अन्वेष्टुं यास्यति तथा च अस्माकं विरोधः भविष्यति?”)(orig “But didn’t he say he would be working the case on his own and that we would be opposition?”))

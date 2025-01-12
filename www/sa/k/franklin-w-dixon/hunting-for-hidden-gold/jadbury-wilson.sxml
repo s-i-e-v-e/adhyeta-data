@@ -2,7 +2,7 @@
 (source @url "https://standardebooks.org/ebooks/franklin-w-dixon/hunting-for-hidden-gold" Standard Ebooks)
 (title 03: जड्बरी विल्सन)
 (note कृत्रिमबुद्ध्या कृतं भाषान्तरं इदं)
-(sec (section (p (tran विस्मयेन, हार्डी-कुमारौ तेषां सहचराः च हिमे अकस्मात् प्रकटितं कुटीरं दृष्ट्वा स्थितवन्तः।)(orig In amazement, the Hardy boys and their chums stared at the cottage that had so strangely appeared in the snow.))
+(matter (section (p (tran विस्मयेन, हार्डी-कुमारौ तेषां सहचराः च हिमे अकस्मात् प्रकटितं कुटीरं दृष्ट्वा स्थितवन्तः।)(orig In amazement, the Hardy boys and their chums stared at the cottage that had so strangely appeared in the snow.))
 (p (tran “इदं कथमत्र आगतम्?” इति चेट् मोर्टनः अक्रोशत्।)(orig “How did that get here?” shouted Chet Morton.))
 (p (tran फ्रैङ्कः स्वहस्तं शिखरस्य उपरि प्रसारितवान्।)(orig Frank waved his hand toward the top of the cliff.))
 (p (tran “तत्र एका लघुकुटीरा आसीत्,” सः तान् अकथयत्। “अवश्यं वायुना उड्डीयिता।”)(orig “There was a little cottage up there,” he told them. “It must have been blown off by the wind.”))

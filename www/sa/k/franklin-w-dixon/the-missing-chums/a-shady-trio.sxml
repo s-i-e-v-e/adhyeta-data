@@ -2,7 +2,7 @@
 (source @url "https://standardebooks.org/ebooks/franklin-w-dixon/the-missing-chums" Standard Ebooks)
 (title 03: एकः छायायुक्तः त्रयः)
 (note कृत्रिमबुद्ध्या कृतं भाषान्तरं इदं)
-(sec (section (p (tran “अहं निश्चितः अस्मि यत् मम मानवः शिकागो-नगरे अस्ति। अहं तथ्यरूपेण जानामि यत् सः पश्चिमदिशं गतः, तथा वायुमयनगरं स्वाभाविकरूपेण तस्य गुप्तस्थानं भविष्यति।”)(orig “I am sure my man is in Chicago. I know for a fact that he went West, and the Windy City would naturally be his hiding place.”))
+(matter (section (p (tran “अहं निश्चितः अस्मि यत् मम मानवः शिकागो-नगरे अस्ति। अहं तथ्यरूपेण जानामि यत् सः पश्चिमदिशं गतः, तथा वायुमयनगरं स्वाभाविकरूपेण तस्य गुप्तस्थानं भविष्यति।”)(orig “I am sure my man is in Chicago. I know for a fact that he went West, and the Windy City would naturally be his hiding place.”))
 (p (tran फेन्टन् हार्डी पुस्तकालयस्य मेजस्य उपरि चिन्तापूर्वकं पेन्सिलेन आघातं कृतवान्। श्रीमती हार्डी पत्रिकां यां पठन्ती आसीत् तां परित्यक्तवती।)(orig Fenton Hardy tapped the library table reflectively with a pencil. Mrs. Hardy put aside the magazine she had been reading.))
 (p (tran “किं त्वं तं अनुसरिष्यसि?”)(orig “Are you going to follow him?”))
 (p (tran “अहं तं प्रशान्तसमुद्रतीरपर्यन्तम् अनुसरिष्यामि यदि आवश्यकं भवेत्।”)(orig “I’ll trail him right to the Pacific Coast if necessary.”))
