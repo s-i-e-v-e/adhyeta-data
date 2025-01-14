@@ -1,7 +1,9 @@
 (document @uuid CC0jrO3k1IkzuiAgzGYI0 @loc "/sa/itihasa/valmikiramayanam-bce/5/031.sxml"
+(meta
 (copyright CC0. No rights reserved)
 (source "वाल्मीकिरामायणम् Baroda Critical Edition")
 (title ३१ सर्गः)
+)
 (matter
 
 (p @id "5.31.1"

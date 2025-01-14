@@ -1,12 +1,13 @@
-<document>
+<document uuid="CD7IAkXMlxb3AOc3KWCmK">
 <meta>
 <copyright>CC0/PD. No rights reserved</copyright>
 <source url="https://standardebooks.org/ebooks/jules-verne/around-the-world-in-eighty-days/george-makepeace-towle">Standard Ebooks</source>
-<title n="III">In which a conversation takes place which seems likely to cost Phileas Fogg dear.</title>
+<title n="III"/>
+<bridgehead>In which a conversation takes place which seems likely to cost Phileas Fogg dear.</bridgehead>
 </meta>
 <chapter>
-<header>
-</header>
+<header
+/>
 <p>Phileas Fogg, having shut the door of his house at half-past eleven, and having put his right foot before his left five hundred and seventy-five times, and his left foot before his right five hundred and seventy-six times, reached the Reform Club, an imposing edifice in Pall Mall, which could not have cost less than three millions. He repaired at once to the dining-room, the nine windows of which open upon a tasteful garden, where the trees were already gilded with an autumn colouring; and took his place at the habitual table, the cover of which had already been laid for him. His breakfast consisted of a side-dish, a broiled fish with Reading sauce, a scarlet slice of roast beef garnished with mushrooms, a rhubarb and gooseberry tart, and a morsel of Cheshire cheese, the whole being washed down with several cups of tea, for which the Reform is famous. He rose at thirteen minutes to one, and directed his steps towards the large hall, a sumptuous apartment adorned with lavishly-framed paintings. A flunkey handed him an uncut Times, which he proceeded to cut with a skill which betrayed familiarity with this delicate operation. The perusal of this paper absorbed Phileas Fogg until a quarter before four, whilst the Standard, his next task, occupied him till the dinner hour. Dinner passed as breakfast had done, and Mr. Fogg reappeared in the reading-room and sat down to the Pall Mall at twenty minutes before six. Half an hour later several members of the Reform came in and drew up to the fireplace, where a coal fire was steadily burning. They were Mr. Fogg’s usual partners at whist: Andrew Stuart, an engineer; John Sullivan and Samuel Fallentin, bankers; Thomas Flanagan, a brewer; and Gauthier Ralph, one of the Directors of the Bank of England⁠—all rich and highly respectable personages, even in a club which comprises the princes of English trade and finance.</p>
 <p>“Well, Ralph,” said Thomas Flanagan, “what about that robbery?”</p>
 <p>“Oh,” replied Stuart, “the Bank will lose the money.”</p>
@@ -34,7 +35,19 @@
 <p>But the incredulous Stuart was not convinced, and when the hand was finished, said eagerly: “You have a strange way, Ralph, of proving that the world has grown smaller. So, because you can go round it in three months⁠—”</p>
 <p>“In eighty days,” interrupted Phileas Fogg.</p>
 <p>“That is true, gentlemen,” added John Sullivan. “Only eighty days, now that the section between Rothal and Allahabad, on the Great Indian Peninsula Railway, has been opened. Here is the estimate made by the <i>Daily Telegraph</i>:</p>
-<blockquote><table><tbody><tr><td>From London to Suez via Mont Cenis and Brindisi, by rail and steamboats</td> <td>7 days</td></tr> <tr><td>From Suez to Bombay, by steamer</td> <td>13 days</td></tr> <tr><td>From Bombay to Calcutta, by rail</td> <td>3 days</td></tr> <tr><td>From Calcutta to Hong Kong, by steamer</td> <td>13 days</td></tr> <tr><td>From Hong Kong to Yokohama (Japan), by steamer</td> <td>6 days</td></tr> <tr><td>From Yokohama to San Francisco, by steamer</td> <td>22 days</td></tr> <tr><td>From San Francisco to New York, by rail</td> <td>7 days</td></tr> <tr><td>From New York to London, by steamer and rail</td> <td>9 days</td></tr> <tr><td>Total</td> <td>80 days</td></tr></tbody></table></blockquote>
+<blockquote>
+<table>
+<tbody>
+<tr><td>From London to Suez via Mont Cenis and Brindisi, by rail and steamboats</td><td>7 days</td></tr>
+<tr><td>From Suez to Bombay, by steamer</td><td>13 days</td></tr>
+<tr><td>From Bombay to Calcutta, by rail</td><td>3 days</td></tr>
+<tr><td>From Calcutta to Hong Kong, by steamer</td><td>13 days</td></tr>
+<tr><td>From Hong Kong to Yokohama (Japan), by steamer</td><td>6 days</td></tr>
+<tr><td>From Yokohama to San Francisco, by steamer</td><td>22 days</td></tr>
+<tr><td>From San Francisco to New York, by rail</td><td>7 days</td></tr>
+<tr><td>From New York to London, by steamer and rail</td><td>9 days</td></tr>
+<tr><td>Total</td><td>80 days</td></tr></tbody>
+</table></blockquote>
 <p>“Yes, in eighty days!” exclaimed Stuart, who in his excitement made a false deal. “But that doesn’t take into account bad weather, contrary winds, shipwrecks, railway accidents, and so on.”</p>
 <p>“All included,” returned Phileas Fogg, continuing to play despite the discussion.</p>
 <p>“But suppose the Hindus or Indians pull up the rails,” replied Stuart; “suppose they stop the trains, pillage the luggage-vans, and scalp the passengers!”</p>

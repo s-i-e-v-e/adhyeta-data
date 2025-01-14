@@ -1,7 +1,9 @@
 (document @uuid CC0jrO3Lm00EyNFE9maGa @loc "/sa/itihasa/valmikiramayanam-bce/1/074.sxml"
+(meta
 (copyright CC0. No rights reserved)
 (source "वाल्मीकिरामायणम् Baroda Critical Edition")
 (title ७४ सर्गः)
+)
 (matter
 
 (p @id "1.74.1"

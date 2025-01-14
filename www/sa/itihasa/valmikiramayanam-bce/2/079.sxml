@@ -1,7 +1,9 @@
 (document @uuid CC0jrO3RtPzZKE8tzz8WS @loc "/sa/itihasa/valmikiramayanam-bce/2/079.sxml"
+(meta
 (copyright CC0. No rights reserved)
 (source "वाल्मीकिरामायणम् Baroda Critical Edition")
 (title ७९ सर्गः)
+)
 (matter
 
 (p @id "2.79.1"

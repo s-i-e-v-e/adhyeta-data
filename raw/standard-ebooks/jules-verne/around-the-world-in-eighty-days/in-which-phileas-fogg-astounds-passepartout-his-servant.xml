@@ -1,12 +1,13 @@
-<document>
+<document uuid="CD7IAkYL7zmFjbQPDWwcq">
 <meta>
 <copyright>CC0/PD. No rights reserved</copyright>
 <source url="https://standardebooks.org/ebooks/jules-verne/around-the-world-in-eighty-days/george-makepeace-towle">Standard Ebooks</source>
-<title n="IV">In which Phileas Fogg astounds Passepartout, his servant.</title>
+<title n="IV"/>
+<bridgehead>In which Phileas Fogg astounds Passepartout, his servant.</bridgehead>
 </meta>
 <chapter>
-<header>
-</header>
+<header
+/>
 <p>Having won twenty guineas at whist, and taken leave of his friends, Phileas Fogg, at twenty-five minutes past seven, left the Reform Club.</p>
 <p>Passepartout, who had conscientiously studied the programme of his duties, was more than surprised to see his master guilty of the inexactness of appearing at this unaccustomed hour; for, according to rule, he was not due in Saville Row until precisely midnight.</p>
 <p>Mr. Fogg repaired to his bedroom, and called out, “Passepartout!”</p>
@@ -17,7 +18,7 @@
 <p>“But it is not midnight,” responded the other, showing his watch.</p>
 <p>“I know it; I don’t blame you. We start for Dover and Calais in ten minutes.”</p>
 <p>A puzzled grin overspread Passepartout’s round face; clearly he had not comprehended his master.</p>
-<p>“<span>Monsieur</span> is going to leave home?”</p>
+<p>“<i>Monsieur</i> is going to leave home?”</p>
 <p>“Yes,” returned Phileas Fogg. “We are going round the world.”</p>
 <p>Passepartout opened wide his eyes, raised his eyebrows, held up his hands, and seemed about to collapse, so overcome was he with stupefied astonishment.</p>
 <p>“Round the world!” he murmured.</p>
@@ -29,7 +30,7 @@
 <p>By eight o’clock Passepartout had packed the modest carpetbag, containing the wardrobes of his master and himself; then, still troubled in mind, he carefully shut the door of his room, and descended to Mr. Fogg.</p>
 <p>Mr. Fogg was quite ready. Under his arm might have been observed a red-bound copy of Bradshaw’s Continental Railway Steam Transit and General Guide, with its timetables showing the arrival and departure of steamers and railways. He took the carpetbag, opened it, and slipped into it a goodly roll of Bank of England notes, which would pass wherever he might go.</p>
 <p>“You have forgotten nothing?” asked he.</p>
-<p>“Nothing, <span>monsieur</span>.”</p>
+<p>“Nothing, <i>monsieur</i>.”</p>
 <p>“My mackintosh and cloak?”</p>
 <p>“Here they are.”</p>
 <p>“Good! Take this carpetbag,” handing it to Passepartout. “Take good care of it, for there are twenty thousand pounds in it.”</p>

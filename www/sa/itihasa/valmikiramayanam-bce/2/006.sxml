@@ -1,7 +1,9 @@
 (document @uuid CC0jrO3Lp4MpCFucybw5j @loc "/sa/itihasa/valmikiramayanam-bce/2/006.sxml"
+(meta
 (copyright CC0. No rights reserved)
 (source "वाल्मीकिरामायणम् Baroda Critical Edition")
 (title ६ सर्गः)
+)
 (matter
 
 (p @id "2.6.1"

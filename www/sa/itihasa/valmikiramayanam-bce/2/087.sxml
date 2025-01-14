@@ -1,7 +1,9 @@
 (document @uuid CC0jrO3Rw81UbhkuTa3rp @loc "/sa/itihasa/valmikiramayanam-bce/2/087.sxml"
+(meta
 (copyright CC0. No rights reserved)
 (source "वाल्मीकिरामायणम् Baroda Critical Edition")
 (title ८७ सर्गः)
+)
 (matter
 
 (p @id "2.87.1"

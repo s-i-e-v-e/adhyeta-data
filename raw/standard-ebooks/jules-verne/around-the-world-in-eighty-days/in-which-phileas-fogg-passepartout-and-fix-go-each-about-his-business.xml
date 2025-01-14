@@ -1,12 +1,13 @@
-<document>
+<document uuid="CD7IAkrLfCegZROEq69hG">
 <meta>
 <copyright>CC0/PD. No rights reserved</copyright>
 <source url="https://standardebooks.org/ebooks/jules-verne/around-the-world-in-eighty-days/george-makepeace-towle">Standard Ebooks</source>
-<title n="XVIII">In which Phileas Fogg, Passepartout, and Fix go each about his business.</title>
+<title n="XVIII"/>
+<bridgehead>In which Phileas Fogg, Passepartout, and Fix go each about his business.</bridgehead>
 </meta>
 <chapter>
-<header>
-</header>
+<header
+/>
 <p>The weather was bad during the latter days of the voyage. The wind, obstinately remaining in the northwest, blew a gale, and retarded the steamer. The <i>Rangoon</i> rolled heavily and the passengers became impatient of the long, monstrous waves which the wind raised before their path. A sort of tempest arose on the 3rd of November, the squall knocking the vessel about with fury, and the waves running high. The <i>Rangoon</i> reefed all her sails, and even the rigging proved too much, whistling and shaking amid the squall. The steamer was forced to proceed slowly, and the captain estimated that she would reach Hong Kong twenty hours behind time, and more if the storm lasted.</p>
 <p>Phileas Fogg gazed at the tempestuous sea, which seemed to be struggling especially to delay him, with his habitual tranquillity. He never changed countenance for an instant, though a delay of twenty hours, by making him too late for the Yokohama boat, would almost inevitably cause the loss of the wager. But this man of nerve manifested neither impatience nor annoyance; it seemed as if the storm were a part of his programme, and had been foreseen. Aouda was amazed to find him as calm as he had been from the first time she saw him.</p>
 <p>Fix did not look at the state of things in the same light. The storm greatly pleased him. His satisfaction would have been complete had the <i>Rangoon</i> been forced to retreat before the violence of wind and waves. Each delay filled him with hope, for it became more and more probable that Fogg would be obliged to remain some days at Hong Kong; and now the heavens themselves became his allies, with the gusts and squalls. It mattered not that they made him seasick⁠—he made no account of this inconvenience; and, whilst his body was writhing under their effects, his spirit bounded with hopeful exultation.</p>
@@ -35,7 +36,7 @@
 <p>“It is very simple,” responded the gentleman. “Go on to Europe.”</p>
 <p>“But I cannot intrude⁠—”</p>
 <p>“You do not intrude, nor do you in the least embarrass my project. Passepartout!”</p>
-<p>“<span>Monsieur</span>.”</p>
+<p>“<i>Monsieur</i>.”</p>
 <p>“Go to the <i>Carnatic</i>, and engage three cabins.”</p>
 <p>Passepartout, delighted that the young woman, who was very gracious to him, was going to continue the journey with them, went off at a brisk gait to obey his master’s order.</p>
 </chapter>

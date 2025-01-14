@@ -1,7 +1,9 @@
 (document @uuid CC0jrO3k3KbS12oRCtb1m @loc "/sa/itihasa/valmikiramayanam-bce/5/037.sxml"
+(meta
 (copyright CC0. No rights reserved)
 (source "वाल्मीकिरामायणम् Baroda Critical Edition")
 (title ३७ सर्गः)
+)
 (matter
 
 (p @id "5.37.1"

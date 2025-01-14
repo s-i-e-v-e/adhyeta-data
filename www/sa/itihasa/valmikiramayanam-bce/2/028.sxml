@@ -1,7 +1,9 @@
 (document @uuid CC0jrO3LwY31Eqa1DbPY0 @loc "/sa/itihasa/valmikiramayanam-bce/2/028.sxml"
+(meta
 (copyright CC0. No rights reserved)
 (source "वाल्मीकिरामायणम् Baroda Critical Edition")
 (title २८ सर्गः)
+)
 (matter
 
 (p @id "2.28.1"

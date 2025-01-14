@@ -1,7 +1,9 @@
 (document @uuid CC0jrO3q7fAG6lxQwvtpF @loc "/sa/itihasa/valmikiramayanam-bce/6/034.sxml"
+(meta
 (copyright CC0. No rights reserved)
 (source "वाल्मीकिरामायणम् Baroda Critical Edition")
 (title ३४ सर्गः)
+)
 (matter
 
 (p @id "6.34.1"

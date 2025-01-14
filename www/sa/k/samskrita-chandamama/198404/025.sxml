@@ -1,9 +1,11 @@
 (document @uuid CC0iv7td4jv1a3BoWuYbw
 
+(meta
 (copyright Chandamama India Limited)
 (source @date "1984-04" @page 25 संस्कृत चन्दमामा)
 (author सुमा)
 (title महाराजस्य गानम्)
+)
 
 (matter
 (p (narration @by "© हर्षदा मादिराजु/CC BY-SA" @url /a/audio/CC0iv7td4jv1a3BoWuYbw-maharajasya-ganam.mp3))

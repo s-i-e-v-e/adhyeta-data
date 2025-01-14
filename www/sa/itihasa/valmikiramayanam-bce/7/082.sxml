@@ -1,7 +1,9 @@
 (document @uuid CC0jrO42MtxQac9ed2p7L @loc "/sa/itihasa/valmikiramayanam-bce/7/082.sxml"
+(meta
 (copyright CC0. No rights reserved)
 (source "वाल्मीकिरामायणम् Baroda Critical Edition")
 (title ८२ सर्गः)
+)
 (matter
 
 (p @id "7.82.1"

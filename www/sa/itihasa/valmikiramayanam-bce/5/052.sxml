@@ -1,7 +1,9 @@
 (document @uuid CC0jrO3kBUT7Eh173w3Ji @loc "/sa/itihasa/valmikiramayanam-bce/5/052.sxml"
+(meta
 (copyright CC0. No rights reserved)
 (source "वाल्मीकिरामायणम् Baroda Critical Edition")
 (title ५२ सर्गः)
+)
 (matter
 
 (p @id "5.52.1"

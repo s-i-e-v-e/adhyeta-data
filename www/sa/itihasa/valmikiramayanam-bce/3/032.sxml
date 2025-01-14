@@ -1,7 +1,9 @@
 (document @uuid CC0jrO3XunzKCI6TR4r9b @loc "/sa/itihasa/valmikiramayanam-bce/3/032.sxml"
+(meta
 (copyright CC0. No rights reserved)
 (source "वाल्मीकिरामायणम् Baroda Critical Edition")
 (title ३२ सर्गः)
+)
 (matter
 
 (p @id "3.32.1"

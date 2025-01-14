@@ -1,6 +1,9 @@
 (document @uuid CCh8239uYjVPpFJitCHAK
+(meta
 (title कथाः)
+)
 (matter
+(section
 (p
 (lit (a @href "/sa/k/laghukathah.sxml" Index of All Stories))
 (lit (a @href "/sa/k/samskrita-bharati/praveshah" पत्रालयद्वारा संस्कृतम् - प्रवेशः))
@@ -9,6 +12,17 @@
 (lit (a @href "/sa/k/mandikal-ramasastri/1914/" संस्कृतकथासप्ततिः))
 (lit (a @href "/sa/k/samskrita-chandamama/" संस्कृत चन्दमामा))
 (lit (a @href "/sa/k/kavikulaguru-kalidasa-samskrita-vishvavidyalayah/" संस्कृतवाग्विलासः १))
-(lit (a @href "/sa/k/the-hardy-boys/" हार्डी-बालकौ-कथा-शृङ्खला))
-)
+))
+
+(section
+(p कादम्बर्यः)
+(p
+(lit (a @href "/sa/k/franklin-w-dixon/" हार्डी-बालकौ-कथा-शृङ्खला))
+(lit (a @href "/sa/k/edgar-rice-burroughs/" एड्गर राइस बरोज))
+(lit (a @href "/sa/k/elliot-o-donnell/" एलियट ओ'डोनेल))
+(lit (a @href "/sa/k/josephine-tey/" जोसेफिन टे))
+(lit (a @href "/sa/k/joseph-sheridan-le-fanu/" जोसेफ शेरिडन ले फानु))
+(lit (a @href "/sa/k/oscar-wilde/" ओस्कर् वाइल्ड्))
+(lit (a @href "/sa/k/stacy-aumonier/" स्टेसी ओमोनियर))
+))
 ))

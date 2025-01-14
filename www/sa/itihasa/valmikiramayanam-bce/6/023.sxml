@@ -1,7 +1,9 @@
 (document @uuid CC0jrO3q3tCI0DGQMh1aE @loc "/sa/itihasa/valmikiramayanam-bce/6/023.sxml"
+(meta
 (copyright CC0. No rights reserved)
 (source "वाल्मीकिरामायणम् Baroda Critical Edition")
 (title २३ सर्गः)
+)
 (matter
 
 (p @id "6.23.1"

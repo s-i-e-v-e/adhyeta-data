@@ -1,7 +1,9 @@
 (document @uuid CC0jrO3LivzdQ2n1HgjZm @loc "/sa/itihasa/valmikiramayanam-bce/1/065.sxml"
+(meta
 (copyright CC0. No rights reserved)
 (source "वाल्मीकिरामायणम् Baroda Critical Edition")
 (title ६५ सर्गः)
+)
 (matter
 
 (p @id "1.65.1"

@@ -1,6 +1,15 @@
 (document @uuid CC0jfweEMXIGBiMB2VojI
+(meta
 (title लघुकथाः)
+)
 (matter
-(x-list)
+(x-list @specific ""
+/sa/k/kavikulaguru-kalidasa-samskrita-vishvavidyalayah
+/sa/k/madrapuri-samskrita-mahavidyalayah
+/sa/k/mandikal-ramasastri
+/sa/k/samskrita-bharati
+/sa/k/samskrita-chandamama
+/sa/k/sarvabhauma-samskrita-prachara-samsthanam
+)
 )
 )

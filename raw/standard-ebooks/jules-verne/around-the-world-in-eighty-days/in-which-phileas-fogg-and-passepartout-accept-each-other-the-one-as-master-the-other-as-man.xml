@@ -1,12 +1,13 @@
-<document>
+<document uuid="CD7IAkUjhZbEARNtBBBxi">
 <meta>
 <copyright>CC0/PD. No rights reserved</copyright>
 <source url="https://standardebooks.org/ebooks/jules-verne/around-the-world-in-eighty-days/george-makepeace-towle">Standard Ebooks</source>
-<title n="I">In which Phileas Fogg and Passepartout accept each other, the one as master, the other as man.</title>
+<title n="I"/>
+<bridgehead>In which Phileas Fogg and Passepartout accept each other, the one as master, the other as man.</bridgehead>
 </meta>
 <chapter>
-<header>
-</header>
+<header
+/>
 <p>Mr. Phileas Fogg lived, in 1872, at No. 7, Saville Row, Burlington Gardens, the house in which Sheridan died in 1814. He was one of the most noticeable members of the Reform Club, though he seemed always to avoid attracting attention; an enigmatical personage, about whom little was known, except that he was a polished man of the world. People said that he resembled Byron⁠—at least that his head was Byronic; but he was a bearded, tranquil Byron, who might live on a thousand years without growing old.</p>
 <p>Certainly an Englishman, it was more doubtful whether Phileas Fogg was a Londoner. He was never seen on ’Change, nor at the Bank, nor in the counting-rooms of the “City”; no ships ever came into London docks of which he was the owner; he had no public employment; he had never been entered at any of the Inns of Court, either at the Temple, or Lincoln’s Inn, or Gray’s Inn; nor had his voice ever resounded in the Court of Chancery, or in the Exchequer, or the Queen’s Bench, or the Ecclesiastical Courts. He certainly was not a manufacturer; nor was he a merchant or a gentleman farmer. His name was strange to the scientific and learned societies, and he never was known to take part in the sage deliberations of the Royal Institution or the London Institution, the Artisan’s Association, or the Institution of Arts and Sciences. He belonged, in fact, to none of the numerous societies which swarm in the English capital, from the Harmonic to that of the Entomologists, founded mainly for the purpose of abolishing pernicious insects.</p>
 <p>Phileas Fogg was a member of the Reform, and that was all.</p>
@@ -23,13 +24,13 @@
 <p>“The new servant,” said he.</p>
 <p>A young man of thirty advanced and bowed.</p>
 <p>“You are a Frenchman, I believe,” asked Phileas Fogg, “and your name is John?”</p>
-<p>“Jean, if <span>monsieur</span> pleases,” replied the newcomer, “Jean Passepartout, a surname which has clung to me because I have a natural aptness for going out of one business into another. I believe I’m honest, <span>monsieur</span>, but, to be outspoken, I’ve had several trades. I’ve been an itinerant singer, a circus-rider, when I used to vault like Leotard, and dance on a rope like Blondin. Then I got to be a professor of gymnastics, so as to make better use of my talents; and then I was a sergeant fireman at Paris, and assisted at many a big fire. But I quitted France five years ago, and, wishing to taste the sweets of domestic life, took service as a valet here in England. Finding myself out of place, and hearing that <span>Monsieur</span> Phileas Fogg was the most exact and settled gentleman in the United Kingdom, I have come to <span>monsieur</span> in the hope of living with him a tranquil life, and forgetting even the name of Passepartout.”</p>
+<p>“Jean, if <i>monsieur</i> pleases,” replied the newcomer, “Jean Passepartout, a surname which has clung to me because I have a natural aptness for going out of one business into another. I believe I’m honest, <i>monsieur</i>, but, to be outspoken, I’ve had several trades. I’ve been an itinerant singer, a circus-rider, when I used to vault like Leotard, and dance on a rope like Blondin. Then I got to be a professor of gymnastics, so as to make better use of my talents; and then I was a sergeant fireman at Paris, and assisted at many a big fire. But I quitted France five years ago, and, wishing to taste the sweets of domestic life, took service as a valet here in England. Finding myself out of place, and hearing that <i>Monsieur</i> Phileas Fogg was the most exact and settled gentleman in the United Kingdom, I have come to <i>monsieur</i> in the hope of living with him a tranquil life, and forgetting even the name of Passepartout.”</p>
 <p>“Passepartout suits me,” responded Mr. Fogg. “You are well recommended to me; I hear a good report of you. You know my conditions?”</p>
-<p>“Yes, <span>monsieur</span>.”</p>
+<p>“Yes, <i>monsieur</i>.”</p>
 <p>“Good! What time is it?”</p>
 <p>“Twenty-two minutes after eleven,” returned Passepartout, drawing an enormous silver watch from the depths of his pocket.</p>
 <p>“You are too slow,” said Mr. Fogg.</p>
-<p>“Pardon me, <span>monsieur</span>, it is impossible⁠—”</p>
+<p>“Pardon me, <i>monsieur</i>, it is impossible⁠—”</p>
 <p>“You are four minutes too slow. No matter; it’s enough to mention the error. Now from this moment, twenty-nine minutes after eleven, a.m., this Wednesday, 2nd October, you are in my service.”</p>
 <p>Phileas Fogg got up, took his hat in his left hand, put it on his head with an automatic motion, and went off without a word.</p>
 <p>Passepartout heard the street door shut once; it was his new master going out. He heard it shut again; it was his predecessor, James Forster, departing in his turn. Passepartout remained alone in the house in Saville Row.</p>

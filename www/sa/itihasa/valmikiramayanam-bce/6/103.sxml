@@ -1,7 +1,9 @@
 (document @uuid CC0jrO3wAdi6aMHoKNqei @loc "/sa/itihasa/valmikiramayanam-bce/6/103.sxml"
+(meta
 (copyright CC0. No rights reserved)
 (source "वाल्मीकिरामायणम् Baroda Critical Edition")
 (title १०३ सर्गः)
+)
 (matter
 
 (p @id "6.103.1"

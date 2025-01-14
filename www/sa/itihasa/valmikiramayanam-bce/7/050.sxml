@@ -1,7 +1,9 @@
 (document @uuid CC0jrO42BvKFAGFTnUCWR @loc "/sa/itihasa/valmikiramayanam-bce/7/050.sxml"
+(meta
 (copyright CC0. No rights reserved)
 (source "वाल्मीकिरामायणम् Baroda Critical Edition")
 (title ५० सर्गः)
+)
 (matter
 
 (p @id "7.50.1"

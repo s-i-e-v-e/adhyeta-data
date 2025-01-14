@@ -1,7 +1,9 @@
 (document @uuid CC0jrO3e8293U3MMwa8fT @loc "/sa/itihasa/valmikiramayanam-bce/4/057.sxml"
+(meta
 (copyright CC0. No rights reserved)
 (source "वाल्मीकिरामायणम् Baroda Critical Edition")
 (title ५७ सर्गः)
+)
 (matter
 
 (p @id "4.57.1"

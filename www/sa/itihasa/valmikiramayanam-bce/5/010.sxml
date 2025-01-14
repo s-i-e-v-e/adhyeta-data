@@ -1,7 +1,9 @@
 (document @uuid CC0jrO3ju9zY6soM6c3VB @loc "/sa/itihasa/valmikiramayanam-bce/5/010.sxml"
+(meta
 (copyright CC0. No rights reserved)
 (source "वाल्मीकिरामायणम् Baroda Critical Edition")
 (title १० सर्गः)
+)
 (matter
 
 (p @id "5.10.1"

@@ -1,7 +1,9 @@
 (document @uuid CC0jrO3e1j8VEtQjIxNIL @loc "/sa/itihasa/valmikiramayanam-bce/4/039.sxml"
+(meta
 (copyright CC0. No rights reserved)
 (source "वाल्मीकिरामायणम् Baroda Critical Edition")
 (title ३९ सर्गः)
+)
 (matter
 
 (p @id "4.39.1"

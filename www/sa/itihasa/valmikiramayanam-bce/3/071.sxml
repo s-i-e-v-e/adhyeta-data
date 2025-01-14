@@ -1,7 +1,9 @@
 (document @uuid CC0jrO3Y8ELPWIDPLgQjf @loc "/sa/itihasa/valmikiramayanam-bce/3/071.sxml"
+(meta
 (copyright CC0. No rights reserved)
 (source "वाल्मीकिरामायणम् Baroda Critical Edition")
 (title ७१ सर्गः)
+)
 (matter
 
 (p @id "3.71.1"

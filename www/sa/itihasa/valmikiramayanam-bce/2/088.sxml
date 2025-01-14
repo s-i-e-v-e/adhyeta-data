@@ -1,7 +1,9 @@
 (document @uuid CC0jrO3RwSwEq31Et0C6J @loc "/sa/itihasa/valmikiramayanam-bce/2/088.sxml"
+(meta
 (copyright CC0. No rights reserved)
 (source "वाल्मीकिरामायणम् Baroda Critical Edition")
 (title ८८ सर्गः)
+)
 (matter
 
 (p @id "2.88.1"

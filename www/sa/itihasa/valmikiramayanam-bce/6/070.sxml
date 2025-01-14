@@ -1,7 +1,9 @@
 (document @uuid CC0jrO3vzJSDYA5zcGTKl @loc "/sa/itihasa/valmikiramayanam-bce/6/070.sxml"
+(meta
 (copyright CC0. No rights reserved)
 (source "वाल्मीकिरामायणम् Baroda Critical Edition")
 (title ७० सर्गः)
+)
 (matter
 
 (p @id "6.70.1"

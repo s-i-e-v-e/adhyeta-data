@@ -1,7 +1,9 @@
 (document @uuid CC0jrO3Fo81PW0kN4ysE5 @loc "/sa/itihasa/valmikiramayanam-bce/1/022.sxml"
+(meta
 (copyright CC0. No rights reserved)
 (source "वाल्मीकिरामायणम् Baroda Critical Edition")
 (title २२ सर्गः)
+)
 (matter
 
 (p @id "1.22.1"

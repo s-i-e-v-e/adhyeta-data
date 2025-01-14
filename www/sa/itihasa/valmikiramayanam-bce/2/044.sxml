@@ -1,7 +1,9 @@
 (document @uuid CC0jrO3M2BE50nXCKdPCR @loc "/sa/itihasa/valmikiramayanam-bce/2/044.sxml"
+(meta
 (copyright CC0. No rights reserved)
 (source "वाल्मीकिरामायणम् Baroda Critical Edition")
 (title ४४ सर्गः)
+)
 (matter
 
 (p @id "2.44.1"

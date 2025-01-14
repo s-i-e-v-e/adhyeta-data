@@ -1,7 +1,9 @@
 (document @uuid CC0jrO3kEwaH9Vz4uWPKN @loc "/sa/itihasa/valmikiramayanam-bce/5/062.sxml"
+(meta
 (copyright CC0. No rights reserved)
 (source "वाल्मीकिरामायणम् Baroda Critical Edition")
 (title ६२ सर्गः)
+)
 (matter
 
 (p @id "5.62.1"

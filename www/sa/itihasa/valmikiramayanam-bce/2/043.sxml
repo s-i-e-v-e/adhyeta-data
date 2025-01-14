@@ -1,7 +1,9 @@
 (document @uuid CC0jrO3M1qJKm1yf37ZCu @loc "/sa/itihasa/valmikiramayanam-bce/2/043.sxml"
+(meta
 (copyright CC0. No rights reserved)
 (source "वाल्मीकिरामायणम् Baroda Critical Edition")
 (title ४३ सर्गः)
+)
 (matter
 
 (p @id "2.43.1"

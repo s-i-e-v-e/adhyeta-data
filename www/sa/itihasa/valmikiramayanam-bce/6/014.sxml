@@ -1,7 +1,9 @@
 (document @uuid CC0jrO3q0mLqzsLs8jmtH @loc "/sa/itihasa/valmikiramayanam-bce/6/014.sxml"
+(meta
 (copyright CC0. No rights reserved)
 (source "वाल्मीकिरामायणम् Baroda Critical Edition")
 (title १४ सर्गः)
+)
 (matter
 
 (p @id "6.14.1"
