@@ -4,6 +4,9 @@
 (source @date "2023-02-17" @url "https://www.youtube.com/watch?v=IfBUaJykTWc" MSC YT)
 (author अनुराधा अनन्तः)
 (title वीराधिवीरः)
+(review
+(reviewer @name "Karthik Iyer" @date "2024-12-08")
+)
 )
 (matter
 (p मगधस्य राजा श्रुतकीर्तिः कदाचित् हेमपुरराज्यस्य उपरि आक्रमणं कृतवान्। किन्तु युद्धे पराजितः सः पलायितः।)
