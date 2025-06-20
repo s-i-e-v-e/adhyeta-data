@@ -1,0 +1,27 @@
+(document @uuid X
+(meta
+(title पिपीलिकाः शलभी च)
+(author Retelling & Translation: Dhiraj Eadara, Karthik Iyer)
+(copyright © Dhiraj Eadara, Karthik Iyer. CC BY-SA)
+(original
+(title The Ants and the Grasshopper)
+(author Aesop)
+)
+)
+(matter
+(section @lang "en"
+(p It was a fine winter's day. Ants were drying grain that they had collected during the summer.)
+(p A hungry Grasshopper came to their door and begged for some food. (" I am starving,) she said.)
+(p The Ants asked her–(" We toiled during the summer and gathered food. Why didn't you? What were you doing?))
+(p (" Food was aplenty in summer,) the Grasshopper replied, (" and I was busy singing.))
+(p The Ants looked at each other and laughed. Then they looked at the Grasshopper and said–(" If you could spend the summer singing, then you can spend the winter dancing.))
+)
+(section @lang "sa"
+(p शोभनः शिशिरदिनः आसीत्। पिपीलिकाः ग्रीष्मकाले सङ्गृहीतं धान्यं शोषयन्ति स्म।)
+(p एका क्षुधार्ता शलभी तासां द्वारे आगतवती। किञ्चित् भोजनं याचितवती। (" क्षुधार्ता अस्मि।) इति सा उक्तवती।)
+(p पिपीलिकाः ताम् अपृच्छन्–(" ग्रीष्मकाले परिश्रमं कृत्वा भोजनं सङ्गृहितम्। त्वं किमर्थं न एवं कृतवती? किं कृतवती?))
+(p शलभी उत्तरं दत्तवती–(" ग्रीष्मकाले बहु-भोजनं आसीत्। गायने व्यस्ता आसम्।))
+(p पिपीलिकाः परस्परं दृष्ट्वा अहसन्। ततः ताः शलभीं दृष्ट्वा अवदन्–(" यदि ग्रीष्मकालं गायने अनाशयः, तर्हि शिशिरकालं नर्तनेन नाशयेः।))
+)
+)
+)
