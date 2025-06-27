@@ -1,13 +1,10 @@
-(document @uuid X
+(document @uuid CJBQhsSLI5Y39DsqyChRG
 (meta
-(original
-(title Aesop's Fables)
-(author Aesop, George Fyler Townsend [tr], Joseph Jacobs [tr], V.S. Vernon Jones [tr])
-)
-(title एसोपस्य कथाः)
-(author @type "retelling, translation" Dhiraj Eadara , Karthik Iyer)
-(copyright © Dhiraj Eadara , Karthik Iyer. CC BY-SA)
+(title एसोपस्य कथाः (rb Aesop's Fables))
+(author Aesop. Original English Translations: George Fyler Townsend, Joseph Jacobs, V.S. Vernon Jones. Retelling & Translation: Dhiraj Eadara, Karthik Iyer)
+(copyright © 2025. Dhiraj Eadara, Karthik Iyer. CC BY-SA)
 )
 (matter
+(x-list)
 )
 )
