@@ -4,9 +4,7 @@
 (source @date "1997-05-15" @page 8 बालकथामाला)
 (author वासुदेव द्विवेदी शास्त्री)
 (title भक्तराजः प्रह्लादः)
-(review
 (reviewer @name "Karthik Iyer" @date "2024-12-08")
-)
 )
 (matter
 (p (audio @url bhaktarajah-prahladah.mp3))
