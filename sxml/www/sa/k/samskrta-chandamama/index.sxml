@@ -3,14 +3,14 @@
 (title संस्कृत चन्दमामा)
 )
 (matter
-(toc
-(ref @url "/sa/k/samskrta-chandamama/198404/" अप्रिल् १९८४)
-(ref @url "/sa/k/samskrta-chandamama/198405/" मे १९८४)
-(ref @url "/sa/k/samskrta-chandamama/199101/" जनवरी १९९१)
-(ref @url "/sa/k/samskrta-chandamama/199102/" फेब्रवरी १९९१)
-(ref @url "/sa/k/samskrta-chandamama/200612/" डिसेम्बर् २००६)
-(ref @url "/sa/k/samskrta-chandamama/201207/" जुलाई २०१२)
-(ref @url "/sa/k/samskrta-chandamama/201208/" अगस्त २०१२)
+(list
+(li (ref @url "/sa/k/samskrta-chandamama/198404/" अप्रिल् १९८४))
+(li (ref @url "/sa/k/samskrta-chandamama/198405/" मे १९८४))
+(li (ref @url "/sa/k/samskrta-chandamama/199101/" जनवरी १९९१))
+(li (ref @url "/sa/k/samskrta-chandamama/199102/" फेब्रवरी १९९१))
+(li (ref @url "/sa/k/samskrta-chandamama/200612/" डिसेम्बर् २००६))
+(li (ref @url "/sa/k/samskrta-chandamama/201207/" जुलाई २०१२))
+(li (ref @url "/sa/k/samskrta-chandamama/201208/" अगस्त २०१२))
 )
 )
 )
