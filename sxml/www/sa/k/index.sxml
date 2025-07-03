@@ -5,7 +5,6 @@
 )
 (matter
 (section
-(h लघुकथाः)
 (list
 (li (ref @url "/sa/k/laghukathah.sxml" Index of All Stories))
 (li (ref @url "/sa/k/samskrta-bharati/praveshah/" पत्रालयद्वारा संस्कृतम् - प्रवेशः))
