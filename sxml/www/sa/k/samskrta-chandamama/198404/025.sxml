@@ -4,7 +4,7 @@
 (source @date "1984-04" @page 25 संस्कृत चन्दमामा)
 (author सुमा)
 (title महाराजस्य गानम्)
-(reviewer @name "Karthik Iyer" @date "2024-12-08")
+(reviewer Karthik Iyer)
 )
 (matter
 (p (audio @url 025.mp3))

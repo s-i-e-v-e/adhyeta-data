@@ -4,7 +4,7 @@
 (source @date "1997-05-15" @page 26 बालकथामाला)
 (author वासुदेव द्विवेदी शास्त्री)
 (title मर्यादापुरुषोत्तमः श्रीरामचन्द्रः)
-(reviewer @name "Karthik Iyer" @date "2024-12-08")
+(reviewer Karthik Iyer)
 )
 (matter
 (p (audio @url maryadapurusottamah-sriramacandrah.mp3))
